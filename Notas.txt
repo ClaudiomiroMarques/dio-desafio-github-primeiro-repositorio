@@ -1,0 +1,3 @@
+Link para download do Git: https://github.com/git-guides/install-git
+
+link sobre versionamento de código: https://gist.github.com/aalvesjr/1924687
